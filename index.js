@@ -32,7 +32,7 @@ $(".menu-btn").click(function () {
       }
     }
   }
-  //resume unavilable
-  function myresume() {
-    document.getElementById("alert2").style.visibility = "visible";
-  }
+  
+   function myresume() {
+    document.getElementById("alert2").style.visibility="visible";
+   }
