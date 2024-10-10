@@ -117,7 +117,7 @@ section .title:hover {
 /* home section styling */
 .home {
   display: flex;
-  background: url("./Images/Sonal.png") no-repeat center;
+  background: url("./Images/IMG.jpg") no-repeat center;
   background-size: cover;
   height: 100vh;
 
