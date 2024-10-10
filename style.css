@@ -51,7 +51,7 @@ section .title {
   margin-bottom: 38px;
   padding-bottom: 4px;
   font-family: "Ubuntu", sans-serif;
-  text-shadow: 2px 2px 2px #8601F6);
+  text-shadow: 2px 2px 2px #8601F6;
   /* transition: 15sec; */
 }
 .about .title {
@@ -117,7 +117,7 @@ section .title:hover {
 /* home section styling */
 .home {
   display: flex;
-  background: url("./Images/IMG.jpg") no-repeat center;
+  background: url("./Images/Sonal.png") no-repeat center;
   background-size: cover;
   height: 100vh;
 
@@ -307,7 +307,7 @@ section .title:hover {
 }
 .contact .contact-content .row i {
   font-size: 25px;
-  color: #8601F6);
+  color: #8601F6;
 }
 .contact .contact-content .info .head {
   font-weight: 500;
